@@ -42,7 +42,6 @@ I am currently pursuing a **Master's degree in Computer Science** at the **Unive
 
 ### 💻 **Internship | Machine Learning with Python**  
 **Duration:** October 2021 – December 2021  
-**Key Contributions:**  
 - Applied **multi-linear regression** to predict profits for 50 startups.  
 - Conducted **Exploratory Data Analysis (EDA)** using Pandas for data manipulation.  
 - Created visualizations with **Matplotlib** and **Seaborn** to understand data distributions.  
@@ -54,15 +53,16 @@ I am currently pursuing a **Master's degree in Computer Science** at the **Unive
 ## 📂 Personal Projects
 
 ### ❤️ **Heart Disease Prediction System**  
-- Developed a **CNN-based multimodal disease risk prediction algorithm** using hospital data (structured and unstructured).  
-- Achieved higher prediction accuracy and faster convergence speed.  
-- Built a user-friendly **GUI application** with the Tkinter framework.
+Developed a convolutional neural network (CNN)-based multimodal disease risk prediction algorithm using structured and unstructured hospital data. This system achieved improved prediction accuracy and faster convergence speed.  
+- Built a **graphical user interface** using the Tkinter framework, providing users with an intuitive application to interact with the model.
 
 ### 🌟 **Sentiment Polarity Categorization for Online Product Reviews**  
-- Built a web application enabling users to purchase products based on sentiment polarity of reviews.  
-- Followed a **waterfall model** for application development with **UML-based system modeling**.  
+Created a web application allowing users to purchase products based on sentiment analysis of reviews. Sentiment polarity features were evaluated individually to guide users in decision-making.  
+- Followed a **waterfall development model** with **UML-based system modeling** to ensure systematic progress.  
+- Designed and implemented a **landing page** and features to categorize products based on user feedback sentiment.
 
 ---
 
-Feel free to explore my repositories for exciting projects and contributions.  
+Feel free to explore my repositories for code and further details on these projects!  
 Looking forward to connecting and collaborating! 🚀
+
