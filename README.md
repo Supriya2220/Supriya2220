@@ -3,7 +3,7 @@
 **📧 Email:** skgwn@umsystem.edu  
 **📱 Phone:** +1 (763) 607-0724  
 **🔗 LinkedIn:** [Supriya Konakanchi](https://www.linkedin.com/in/supriya-konakanchi-b5652424a)  
-**🌍 Location:** USA  
+**🌍 Location:** Kansas City, Missouri, USA  
 
 ---
 
