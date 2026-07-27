@@ -1,67 +1,78 @@
 # 💻 Supriya Konakanchi
 
-**📧 Email:** skgwn@umsystem.edu  
-**📱 Phone:** +1 (763) 607-0724  
-**🔗 LinkedIn:** [Supriya Konakanchi](https://www.linkedin.com/in/supriya-konakanchi-b5652424a)  
+**📧 Email:** supriyakonakanchi1220@gmail.com  
+**📱 Phone:** +1 (816) 367-4696  
+**🔗 LinkedIn:** [Supriya K](https://www.linkedin.com/in/supriya-k-945554297)  
 **🌍 Location:** Kansas City, Missouri, USA  
 
 ---
 
 ## 👩‍🎓 About Me
-I am currently pursuing a **Master's degree in Computer Science** at the **University of Missouri Kansas City (UMKC)**, blending theoretical knowledge with hands-on experience. Passionate about leveraging advanced technologies to address real-world challenges, I aim to grow as a software developer with a focus on **machine learning**, **data analysis**, and **innovative solutions**.  
+I am a QA Automation Engineer with 5 years of experience in designing and developing automation frameworks for web, API, and mobile applications. I specialize in Java, Selenium WebDriver, Playwright, Cypress, REST Assured, TestNG, Appium, SQL, Jenkins, Git, and CI/CD pipelines. Passionate about building scalable automation solutions that improve software quality and accelerate release cycles.  
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Programming Languages:**  
-- C, Java, JavaScript, Python  
+- SQL, Java, JavaScript, Python  
 
-**Front-End Technologies:**  
-- HTML5, CSS3, JavaScript, Angular  
+**Automation Testing:**  
+- Selenium WebDriver, Playwright, Cypress, Appium, TestNG, JUnit, Cucumber (BDD)
 
-**Databases:**  
-- SQL, MySQL, MongoDB  
+**API Testing:**  
+- REST Assured, Postman, Swagger, SOAP UI, Karate
 
-**Tools:**  
-- GitHub, Microsoft Suite, Visual Studio Code  
+**Performance Testing:**  
+- JMeter, BlazeMeter, LoadRunner
+
+**CI/CD & DevOps:**
+- Jenkins, Git, GitHub, Azure DevOps, Maven
+
+**Databases:**
+- SQL Server, Oracle, DB2, MS Access
+
+**Test Management:**
+- Jira, HP ALM, TFS, ServiceNow
+
+
+**Cloud:**
+- AWS
 
 ---
 
 ## 📜 Certifications
 
-- **HackerRank:** Python Course Completion  
-- **Simplilearn:** Introduction to Data Science  
-- **Simplilearn:** Data Science with R Programming  
-- **Oracle:** Certified Java SE8 Programmer  
-- **AWS:** Certified Cloud Practitioner  
+- AWS Certified Cloud Practitioner
 
 ---
 
 ## 💼 Professional Experience
 
-### 💻 **Internship | Machine Learning with Python**  
-**Duration:** October 2021 – December 2021  
-- Applied **multi-linear regression** to predict profits for 50 startups.  
-- Conducted **Exploratory Data Analysis (EDA)** using Pandas for data manipulation.  
-- Created visualizations with **Matplotlib** and **Seaborn** to understand data distributions.  
-- Implemented and evaluated a multi-linear regression model using **scikit-learn**.  
-- Utilized libraries such as **Pandas, NumPy, Matplotlib, Seaborn**, and **scikit-learn**.
+### 💻 **Citi Bank | SDET**  
+**Duration:** September 2025 – Present  
+- Built automation frameworks using Selenium WebDriver, Playwright, Cypress, TestNG, and Cucumber.
+- Automated UI, API, and mobile application testing.
+- Integrated automation suites with Jenkins and Azure Pipelines.
+- Performed cross-browser, cross-platform, and mobile testing.
+
+### 🏥 **Cigna Healthcare | SDET / QA Tester**
+**Duration:** July 2024 – August 2025
+- Designed scalable automation frameworks using Java, Selenium WebDriver, TestNG, Maven, and Page Object Model.
+- Developed UI automation using Playwright and Cypress.
+- Automated REST APIs using REST Assured and Postman.
+- Validated healthcare workflows including member enrollment, claims, and provider services.
+- Integrated automation with Jenkins CI/CD pipelines.
+
+### 💻 **QualiTlabs | QA Automation Engineer**
+**Duration:** April 2021 – November 2023
+- Developed Selenium automation frameworks using Java and TestNG.
+- Automated REST APIs using REST Assured and Postman.
+- Implemented BDD using Cucumber.
+- Worked in Agile Scrum teams.
 
 ---
 
-## 📂 Personal Projects
-
-### ❤️ **Heart Disease Prediction System**  
-Developed a convolutional neural network (CNN)-based multimodal disease risk prediction algorithm using structured and unstructured hospital data. This system achieved improved prediction accuracy and faster convergence speed.  
-- Built a **graphical user interface** using the Tkinter framework, providing users with an intuitive application to interact with the model.
-
-### 🌟 **Sentiment Polarity Categorization for Online Product Reviews**  
-Created a web application allowing users to purchase products based on sentiment analysis of reviews. Sentiment polarity features were evaluated individually to guide users in decision-making.  
-- Followed a **waterfall development model** with **UML-based system modeling** to ensure systematic progress.  
-- Designed and implemented a **landing page** and features to categorize products based on user feedback sentiment.
-
----
 
 Feel free to explore my repositories for code and further details on these projects!  
 Looking forward to connecting and collaborating! 🚀
