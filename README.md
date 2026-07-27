@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Supriya2220/Supriya2220/blob/main/Github-banner.png.jpeg" width="100%" alt="QA Automation Engineer Banner">
+</p>
+
 # 💻 Supriya Konakanchi
 
 **📧 Email:** supriyakonakanchi1220@gmail.com  
