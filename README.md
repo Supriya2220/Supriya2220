@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Supriya2220/Supriya2220/raw/main/Supriya_Konakanchi_QA_SDET_Resume.docx">
+  <a href="https://github.com/Supriya2220/Supriya2220/raw/main/K%20Supriya%20Resume%20(1).docx">
     <img src="https://img.shields.io/badge/📄%20Resume-Download%20Resume-0A66C2?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Download Resume">
   </a>
 </p>
